@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "6ed7be4b-ba45-a858-796d-e0fab7f58787",
+  "instructors": {
+    "content": [
+      "bbc3e1c9-a108-07f5-d5fe-2529994d7d38"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "83daf475-fb12-9c5d-03b8-d5e7f429ddfb",
+    "website": "17-263-american-elections-fall-2020"
+  },
+  "course_title": "American Elections",
+  "course_description": "This course provides an overview of electoral politics in the United States, covering presidential, congressional, state, and local elections. It covers the development of American elections over time, electoral rules and institutions, the macro-structural forces shaping electoral outcomes, the key organizations involved in elections (parties, etc.), candidates' calculations and campaign strategies, and the role of ordinary citizens in the electoral process, as well as potential reforms to the U.S. electoral system.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.263",
+  "course_image_thumbnail": {
+    "content": "c3e865a3-1f32-00a5-2583-2020fb7cfef4",
+    "website": "17-263-american-elections-fall-2020"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "4d07085d-36e9-4928-bb79-789efdbc2d35",
+  "site_short_id": "17.263-fall-2020",
+  "site_url_path": "courses/17-263-american-elections-fall-2020",
+  "title": "Course Metadata"
+}
