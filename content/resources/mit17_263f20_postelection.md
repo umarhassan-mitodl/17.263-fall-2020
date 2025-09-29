@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-263-american-elections-fall-2020/cf3ecd5380ca63fb2026549c3d676e5b_MIT17_263F20_Postelection.pdf
 file_size: 108789
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

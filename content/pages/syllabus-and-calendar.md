@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains the course description, learning goals, required
   book, and calendar.  '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -44,12 +46,12 @@ Expectations
     *   Acknowledging the right of others to hold and express contrary views.
     *   When criticizing, focusing on what people said, not who they are.
     *   More generally, helping to foster a safe and welcoming environment for students with a diverse range of perspectives and identities.
-*   **Maintain academic integrity.** Among other things, this means never taking credit for words or ideas that are not your own, and always giving your readers enough information to evaluate the source and quality of your evidence. For more information on plagiarism and academic integrity, consult {{% resource_link "5c3b0b91-ec94-4c4c-8aa7-7c906f2278ef" "Academic Integrity at MIT: A Handbook for Students" %}}.
+*   **Maintain academic integrity.** Among other things, this means never taking credit for words or ideas that are not your own, and always giving your readers enough information to evaluate the source and quality of your evidence. For more information on plagiarism and academic integrity, consult [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
 
 Required Books
 --------------
 
-Sides, John, Daron Shaw, Matt Grossmann, et al. _{{% resource_link "a82244a8-027e-47c5-aed5-b816911ba64a" "Campaigns and Elections" %}}_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
+Sides, John, Daron Shaw, Matt Grossmann, et al. _[Campaigns and Elections](https://wwnorton.com/books/9780393664676)_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
 
 Additional readings can be found in the {{% resource_link 15367b5d-035b-00e7-0730-5ec39cd968d1 "Readings" %}} section.
 

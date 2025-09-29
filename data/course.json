@@ -28,6 +28,7 @@
     "website": "17-263-american-elections-fall-2020"
   },
   "course_title": "American Elections",
+  "hide_download": true,
   "course_description": "This course provides an overview of electoral politics in the United States, covering presidential, congressional, state, and local elections. It covers the development of American elections over time, electoral rules and institutions, the macro-structural forces shaping electoral outcomes, the key organizations involved in elections (parties, etc.), candidates' calculations and campaign strategies, and the role of ordinary citizens in the electoral process, as well as potential reforms to the U.S. electoral system.\n",
   "department_numbers": [
     "17"
@@ -38,6 +39,7 @@
     "content": "c3e865a3-1f32-00a5-2583-2020fb7cfef4",
     "website": "17-263-american-elections-fall-2020"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Lecture Notes"

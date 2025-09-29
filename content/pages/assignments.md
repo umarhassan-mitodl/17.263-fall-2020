@@ -19,7 +19,7 @@ Race selection
 *Submit the race that you plan to follow and report on. Please specify office, state, and (if applicable) district or municipality. Here are some examples:*
 
 - *U.S. President, California*
-- *U.S. senator (*{{% resource_link "078b23cc-f316-4241-86ba-4c5bc13bc4e0" "*Class III*" %}}*), Georgia*
+- *U.S. senator (*[*Class III*](https://en.wikipedia.org/wiki/Classes_of_United_States_senators)*), Georgia*
 - *U.S. representative, Texas, 2*sup *district*
 - *Mayor, Baltimore, Maryland*
 
